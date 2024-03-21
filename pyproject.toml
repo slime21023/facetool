@@ -1,0 +1,15 @@
+[project]
+name = "facetool"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "kevinchueh", email = "slime21023@gmail.com"},
+]
+dependencies = []
+requires-python = "==3.9.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+package-type = "application"
